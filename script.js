@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img: 'images/ledrivula.jpg',
+        img: 'images/lockdown.jfif',
         name: 'Luj mas teje',
         artist: 'Ledri Vula',
         music: 'music/ledrivula.mp3'
